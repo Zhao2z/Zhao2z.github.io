@@ -1,15 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Where I tell you about myself
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zhao2z, and I'm a PHD student at Wuhan University majoring in Software Engineering.
+I'm under the supervision of [Prof. Xuan](http://jifeng-xuan.com/) and I'm a member of the [CSTAR](https://cstar.whu.edu.cn) lab.
+My research interests include software engineering, software testing, and program repair.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
