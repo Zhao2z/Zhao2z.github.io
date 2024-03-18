@@ -5,7 +5,7 @@ subtitle: Where I tell you about myself
 ---
 
 My name is Zhao2z, and I am a Ph.D. student at Wuhan University, majoring in Software Engineering.
-I am currently being supervised by Professor [Xuan](http://jifeng-xuan.com) and am a member of the [CSTAR](https://cstar.whu.edu.cn) lab.
+I am currently being supervised by Professor [Xuan](http://jifeng-xuan.com) and am a member of the [CSTAR](http://cstar.whu.edu.cn) lab.
 My research interests encompass software engineering, software testing, and program repair.
 
 
